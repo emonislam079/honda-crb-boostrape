@@ -1,0 +1,15 @@
+.honda-bg-color{
+    background-color: #264653;
+}
+.gray img{
+    filter: grayscale(100%);
+}
+.fas{
+    color:#E77C40;
+    font-size: 22px;
+    
+}
+.far{
+    color: #E77C40;
+    font-size: 22px;
+}
